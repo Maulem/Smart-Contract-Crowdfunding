@@ -1,5 +1,2 @@
 
-# Ethereum Network crowdfunding project
-## This is my first project in Vyper for a Ethereum Network crowdfunding project
-
-Feel free to copy anything you want
+# This is my first project in Vyper, and the idea is to make a smart contract that can support for a Crowdfunding Project in Ethereum Network 
